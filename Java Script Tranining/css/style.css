@@ -1,0 +1,21 @@
+body{
+    background-image: url(image/Background.jpg);
+    background-position: center;
+    background-size:contain;
+}
+
+.mr-0 {
+  margin-right: 100;
+}
+
+.mr-1 {
+    margin-left: 0;
+  }
+
+.ml-auto {
+  margin-left:auto;
+}
+
+.d-block {
+  display:block;
+}
